@@ -1,0 +1,1 @@
+# Neural-Computing-Approach-to-Income-Prediction
